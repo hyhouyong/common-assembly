@@ -1,2 +1,3 @@
-# common-assembly
-common-assembly
+# kcwl-common-assembly
+
+通用组件服务
